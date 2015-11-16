@@ -1,2 +1,3 @@
 # GIT
-Vive les carottes 
+Vive les carottes! 
+Vive les cacahuètes! 
